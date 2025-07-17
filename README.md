@@ -52,4 +52,4 @@ Kebutuhan Non-fungsional
 4. Pengelolaan Data Terstruktur: Seluruh data peminjaman, pengembalian, dan reservasi tersimpan di database relasional dengan struktur terorganisir dan dapat diakses kembali dengan cepat.
 5. Pemeliharaan dan Pengembangan: Sistem dibangun dengan struktur Laravel MVC yang memudahkan pengembangan dan pemeliharaan di masa mendatang oleh tim lain.
 
-![Diagram DataBase](FinalWEB2K7/Diagram.jpg)
+![Diagram DataBase](Diagram.jpg)
