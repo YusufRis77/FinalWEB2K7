@@ -51,3 +51,5 @@ Kebutuhan Non-fungsional
 3. Kemudahan Penggunaan (Usability): Tampilan antarmuka harus user-friendly, mudah dipahami, dan konsisten. Pengguna dapat mengakses fitur reservasi dan riwayat dengan navigasi yang jelas.
 4. Pengelolaan Data Terstruktur: Seluruh data peminjaman, pengembalian, dan reservasi tersimpan di database relasional dengan struktur terorganisir dan dapat diakses kembali dengan cepat.
 5. Pemeliharaan dan Pengembangan: Sistem dibangun dengan struktur Laravel MVC yang memudahkan pengembangan dan pemeliharaan di masa mendatang oleh tim lain.
+
+![Diagram DataBase](FinalWEB2K7/Diagram.jpg)
